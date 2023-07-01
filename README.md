@@ -1,2 +1,2 @@
 # CPP
-CPP Piscine 19
+A series of short exercises to learn C++
